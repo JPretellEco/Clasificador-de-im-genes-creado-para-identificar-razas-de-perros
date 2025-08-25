@@ -1,3 +1,4 @@
+
 ---
 
 # 🐶 Clasificación de Imágenes para un Concurso Canino Municipal
