@@ -1,6 +1,3 @@
-Perfecto ⚡ Jeffersson.
-Si quieres que el **README.md** quede en **primera persona**, sería algo así:
-
 ---
 
 # 🐶 Clasificación de Imágenes para un Concurso Canino Municipal
@@ -40,5 +37,3 @@ Para completar el proyecto trabajaré con los siguientes archivos:
 * **`dognames.txt`** → Lista de razas válidas de perros.
 
 ---
-
-¿Quieres que también te arme la parte final de un README con un **flujo de trabajo paso a paso** (cómo ejecuto el programa, cómo comparo modelos y cómo interpreto resultados)?
